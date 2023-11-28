@@ -1,0 +1,3 @@
+Antes que nada create el usuario usu4 con password usu4 en phpmyadmin.
+
+Ya despues a jugar.
